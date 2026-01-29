@@ -1,0 +1,12 @@
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\PlayGroundLib.csproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\PlayGroundLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\PlayGroundLib.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\PlayGroundLib.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\PlayGroundLib.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\bin\Debug\net9.0\PlayGroundLib.deps.json
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\bin\Debug\net9.0\PlayGroundLib.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\bin\Debug\net9.0\PlayGroundLib.pdb
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\PlayGroundLib.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\refint\PlayGroundLib.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\PlayGroundLib.pdb
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLib\obj\Debug\net9.0\ref\PlayGroundLib.dll
