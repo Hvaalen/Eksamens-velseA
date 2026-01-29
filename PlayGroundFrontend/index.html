@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <title>PlayGround Opgave</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div id="app" class="container mt-5">
+        <h1 class="mb-4">PlayGrounds på Azure</h1>
+
+        <div class="card p-4 mb-4 shadow-sm">
+            <h4 v-if="!isEditing">Tilføj ny PlayGround</h4>
+            <h4 v-else class="text-primary">Rediger PlayGround</h4>
+
+            <div class="row g-2">
+                <div class="col-md-4">
+                    <input v-model="formData.name" placeholder="Navn" class="form-control">
+                </div>
+                <div class="col-md-2">
+                    <input v-model.number="formData.maxChildren" type="number" placeholder="Max Børn" class="form-control">
+                </div>
+                <div class="col-md-2">
+                    <input v-model.number="formData.minAge" type="number" placeholder="Min Alder" class="form-control">
+                </div>
+                
+                <div class="col-md-4 d-flex gap-2">
+                    <button v-if="!isEditing" @click="add" class="btn btn-success w-100">Tilføj</button>
+                    
+                    <button v-if="isEditing" @click="updatePlayground" class="btn btn-primary flex-grow-1">Opdater</button>
+                    <button v-if="isEditing" @click="clearForm" class="btn btn-secondary">Fortryd</button>
+                </div>
+            </div>
+        </div>
+
+        <table class="table table-striped table-bordered align-middle">
+            <thead class="table-dark">
+                <tr>
+                    <th>ID</th>
+                    <th>Navn</th>
+                    <th>Max Børn</th>
+                    <th>Min Alder</th>
+                    <th>Handling</th> </tr>
+            </thead>
+            <tbody>
+                <tr v-for="pg in playgrounds" :key="pg.id">
+                    <td>{{ pg.id }}</td>
+                    <td>{{ pg.name }}</td>
+                    <td>{{ pg.maxChildren }}</td>
+                    <td>{{ pg.minAge }}</td>
+                    <td>
+                        <button @click="prepareEdit(pg)" class="btn btn-warning btn-sm">Rediger</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
