@@ -1,0 +1,13 @@
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\PlayGroundLibController.exe
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\appsettings.Development.json
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\appsettings.json
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\PlayGroundLibController.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\PlayGroundLibController.deps.json
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\PlayGroundLibController.runtimeconfig.json
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\PlayGroundLibController.pdb
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\PlayGroundLib.dll
+C:\Users\olive\OneDrive\Skrivebord\Coding\PROG TEK\3. sem eksamens øvelser\PlayGroundLibController\obj\Release\net9.0\PubTmp\Out\PlayGroundLib.pdb

@@ -1,0 +1,6 @@
+@PlayGroundLibController_HostAddress = http://localhost:5125
+
+GET {{PlayGroundLibController_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
